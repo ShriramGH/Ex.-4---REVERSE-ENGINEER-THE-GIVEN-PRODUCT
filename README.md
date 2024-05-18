@@ -58,8 +58,8 @@ Step 10.:- After generate the gcode format then follow the these instruction
 
 
 ### By
-#### Name: Sri Varshan P
-#### Register Number: 212222240104
+#### Name: Shriram S
+#### Register Number: 212222240098
 
 ## RESULT:
 
